@@ -1,0 +1,16 @@
+D,Americano,3.50
+D,Latte,5.00
+D,Iced Coffee,2.50
+D,Chai,2.00
+D,Soft Drink,1.50
+S,Turkey,5.00
+S,Ham,5.50
+S,Black Bean Burger,6.00
+B,Croissant,2.00
+B,Donut,1.00
+B,Chocolate Chip Donut,1.50
+B,Blueberry,1.50
+B,Cream Cheese,2.00
+B,Blueberry Muffin,2.00
+B,Corn Muffin,1.50
+B,Bagel,2.00
